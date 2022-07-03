@@ -15,6 +15,12 @@ Height - The height of a tree is the number of edges from the root to the furthe
 #Traversals
 An important aspect of trees is how to traverse them. Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! There are two categories of traversals when it comes to trees:
 
+# Traversals
+An important aspect of trees is how to traverse them. Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! There are two categories of traversals when it comes to trees:
+
+Depth First
+Breadth First
+
 # Depth First
 Breadth First
 Depth First
