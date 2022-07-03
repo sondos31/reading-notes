@@ -12,8 +12,6 @@ Leaf - A leaf is a node that does not have any children
 Height - The height of a tree is the number of edges from the root to the furthest leaf
  
 <img src="BinaryTree1.png">
-#Traversals
-An important aspect of trees is how to traverse them. Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! There are two categories of traversals when it comes to trees:
 
 # Traversals
 An important aspect of trees is how to traverse them. Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! There are two categories of traversals when it comes to trees:
